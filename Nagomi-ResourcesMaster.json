@@ -124,6 +124,24 @@
     "Version": "1.0",
     "DownloadUrl": "https://raw.githubusercontent.com/eroubue/ACR_Resources/refs/heads/main/鞭尸3.wav",
     "UpdateInfo": ""
+  },
+   {
+    "Name": "开1",
+    "Version": "1.0",
+    "DownloadUrl": "https://raw.githubusercontent.com/eroubue/ACR_Resources/refs/heads/main/开1.m4a",
+    "UpdateInfo": ""
+  },
+   {
+    "Name": "开2",
+    "Version": "1.0",
+    "DownloadUrl": "https://raw.githubusercontent.com/eroubue/ACR_Resources/refs/heads/main/开2.m4a",
+    "UpdateInfo": ""
+  },
+   {
+    "Name": "开3",
+    "Version": "1.0",
+    "DownloadUrl": "https://raw.githubusercontent.com/eroubue/ACR_Resources/refs/heads/main/开3.mp3",
+    "UpdateInfo": ""
   }
  
 ]
